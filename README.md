@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ahmed Aldawody
+- 👋 Civil Engineer - Programmer - Data Analyst
+- 👀 I’m interested in Data Analytics, Programming in Python, JavaScript, C#,  Flutter, Dart and GDScript
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Data Analytics, Data Visualization, Programming.
+- 📫 a7med84@gmail.com
